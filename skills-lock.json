@@ -7,6 +7,12 @@
       "skillPath": "skills/shadcn/SKILL.md",
       "computedHash": "7859e9a064940a1a0010c992b63e4633c4f5f39ed367a23c16f24029816b1703"
     },
+    "tailwind": {
+      "source": "pproenca/dot-skills",
+      "sourceType": "github",
+      "skillPath": "skills/.curated/tailwind/SKILL.md",
+      "computedHash": "90d9a155ed76c4e2980e4bc31853b4e73ac90b62b3da7fd23cf492e7760095c8"
+    },
     "vercel-react-best-practices": {
       "source": "vercel-labs/agent-skills",
       "sourceType": "github",
