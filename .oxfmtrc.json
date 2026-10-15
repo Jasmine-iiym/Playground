@@ -5,11 +5,7 @@
   "sortPackageJson": false,
   "sortTailwindcss": {
     "stylesheet": "./src/app/globals.css",
-    "functions": [
-      "cn",
-      "cva",
-      "clsx"
-    ]
+    "functions": ["cn", "cva", "clsx"]
   },
   "ignorePatterns": [
     ".next",
